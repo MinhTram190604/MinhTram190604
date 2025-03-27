@@ -1,8 +1,8 @@
 ## Hi, I'm Minh Trâm!
 
-👩🏻‍🎓 Studying Data Science at the University of Economics Ho Chi Minh City (UEH)
-👩🏻‍💻 Data Analyst seeking opportunities to apply my skills and enthusiasm in a professional environment
-🌱 Currently learning domain knowledge in marketing
+👩🏻‍🎓 Studying Data Science at the University of Economics Ho Chi Minh City (UEH)  
+👩🏻‍💻 Data Analyst seeking opportunities to apply my skills and enthusiasm in a professional environment  
+🌱 Currently learning domain knowledge in marketing  
 
 ## 📊 Notable Projects
 ### Analysis and Prediction of Mental Health Issue
