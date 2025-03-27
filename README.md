@@ -2,7 +2,7 @@
 
 👩🏻‍🎓 Studying Data Science at the University of Economics Ho Chi Minh City (UEH)  
 👩🏻‍💻 Data Analyst seeking opportunities to apply my skills and enthusiasm in a professional environment  
-🌱 Currently learning domain knowledge in marketing  
+🌱 Currently learning domain knowledge in [marketing](https://plus.columbia.edu/content/marketing-analytics-i)  
 
 ## 📊 Notable Projects
 ### Analysis and Prediction of Mental Health Issue
