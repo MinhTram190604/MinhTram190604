@@ -11,7 +11,7 @@
 - **Link**: https://github.com/MinhTram190604/Analysis-and-Prediction-of-Mental-health-issue 
 ### Market Basket Analysis using ECLAT algorithm
 - **Description:** This project use  ECLAT algorithm to discover frequent itemsets and strong association rules from transaction data in order to analyze customer purchasing behavior. The discovery  can be applied in practice to provide actionable recommendations for business, such as build cross-selling strategy or optimize product placement strategy.
-- **echniques Used:** Python (pandas, numpy, collections, itertools, matplotlib, wordcloud, pyECLAT).
+- **Techniques Used:** Python (pandas, numpy, collections, itertools, matplotlib, wordcloud, pyECLAT).
 - **Link:** https://github.com/MinhTram190604/Market-Basket-Analysis-using-ECLAT-algorithm
 ## 📫 How to reach me: 
 - Email: minhtram.np@gmail.com
